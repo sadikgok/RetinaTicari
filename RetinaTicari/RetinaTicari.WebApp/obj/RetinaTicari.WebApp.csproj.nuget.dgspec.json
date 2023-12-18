@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.WebApp\\RetinaTicari.WebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Business\\RetinaTicari.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Business\\RetinaTicari.Business.csproj",
+        "projectName": "RetinaTicari.Business",
+        "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Business\\RetinaTicari.Business.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj"
+              },
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj",
+        "projectName": "RetinaTicari.Core",
+        "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj",
+        "projectName": "RetinaTicari.DataAccess",
+        "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj",
+        "projectName": "RetinaTicari.Entities",
+        "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\RetinaTicari.Entities.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.WebApp\\RetinaTicari.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.WebApp\\RetinaTicari.WebApp.csproj",
+        "projectName": "RetinaTicari.WebApp",
+        "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.WebApp\\RetinaTicari.WebApp.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Business\\RetinaTicari.Business.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Business\\RetinaTicari.Business.csproj"
+              },
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.Core\\RetinaTicari.Core.csproj"
+              },
+              "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\calismalar\\RetinaTicari\\RetinaTicari.DataAccess\\RetinaTicari.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.1.34, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

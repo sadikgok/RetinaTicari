@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetinaTicari.Core", "RetinaTicari.Core\RetinaTicari.Core.csproj", "{944BECB1-CB15-4DC2-9D3F-E6DE1899B200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetinaTicari.DataAccess", "RetinaTicari.DataAccess\RetinaTicari.DataAccess.csproj", "{58E52E3F-A2B8-4D9E-9CA8-FB3F36D06E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetinaTicari.Entities", "RetinaTicari.Entities\RetinaTicari.Entities.csproj", "{2E119BCB-5335-4CED-A7CE-4963EAAC7B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetinaTicari.WebApp", "RetinaTicari.WebApp\RetinaTicari.WebApp.csproj", "{32007853-1896-4327-9B12-332688DACEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetinaTicari.Business", "RetinaTicari.Business\RetinaTicari.Business.csproj", "{69E68573-79DA-4541-BE43-235E50B5DDDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944BECB1-CB15-4DC2-9D3F-E6DE1899B200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944BECB1-CB15-4DC2-9D3F-E6DE1899B200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944BECB1-CB15-4DC2-9D3F-E6DE1899B200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944BECB1-CB15-4DC2-9D3F-E6DE1899B200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E52E3F-A2B8-4D9E-9CA8-FB3F36D06E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E52E3F-A2B8-4D9E-9CA8-FB3F36D06E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E52E3F-A2B8-4D9E-9CA8-FB3F36D06E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E52E3F-A2B8-4D9E-9CA8-FB3F36D06E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E119BCB-5335-4CED-A7CE-4963EAAC7B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E119BCB-5335-4CED-A7CE-4963EAAC7B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E119BCB-5335-4CED-A7CE-4963EAAC7B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E119BCB-5335-4CED-A7CE-4963EAAC7B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32007853-1896-4327-9B12-332688DACEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32007853-1896-4327-9B12-332688DACEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32007853-1896-4327-9B12-332688DACEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32007853-1896-4327-9B12-332688DACEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E68573-79DA-4541-BE43-235E50B5DDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E68573-79DA-4541-BE43-235E50B5DDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E68573-79DA-4541-BE43-235E50B5DDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E68573-79DA-4541-BE43-235E50B5DDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEA5447-6ECF-4599-A381-B76D1E7AB484}
+	EndGlobalSection
+EndGlobal

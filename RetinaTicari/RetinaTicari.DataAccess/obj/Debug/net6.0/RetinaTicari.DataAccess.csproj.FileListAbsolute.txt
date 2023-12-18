@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.DataAccess.deps.json
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.DataAccess.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.DataAccess.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.Core.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.Entities.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.Entities.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\bin\Debug\net6.0\RetinaTicari.Core.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.AssemblyInfo.cs
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.csproj.CopyComplete
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\refint\RetinaTicari.DataAccess.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\RetinaTicari.DataAccess.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.DataAccess\obj\Debug\net6.0\ref\RetinaTicari.DataAccess.dll

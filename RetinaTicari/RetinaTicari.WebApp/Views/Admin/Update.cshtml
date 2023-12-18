@@ -1,0 +1,28 @@
+﻿@model RetinaTicari.WebApp.Models.ProductUpdateViewModel
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Update Product</h1>
+
+<form asp-controller="Admin" asp-action="Update" method="post">
+    <div class="form-group">
+        <label asp-for="Product.ProductName"></label>
+        <input asp-for="Product.ProductName" class="form-control" placeholder="Product Name" />
+        <span asp-validation-for="Product.ProductName"></span>
+        <label asp-for="Product.CategoryId"></label>
+        <select asp-for="Product.CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories,"CategoryId","CategoryName"))"></select>
+        <span asp-validation-for="Product.CategoryId"></span>
+        <label asp-for="Product.UnitPrice"></label>
+        <input asp-for="Product.UnitPrice" class="form-control" placeholder="Product Name" />
+        <span asp-validation-for="Product.UnitPrice"></span>
+        <label asp-for="Product.UnitsInStock"></label>
+        <input asp-for="Product.UnitsInStock" class="form-control" placeholder="Product Name" />
+        <span asp-validation-for="Product.UnitsInStock"></span>
+        <br />
+        <input type="hidden" asp-for="Product.ProductId" />
+        <input type="submit" value="Update" class="btn btn-success" />
+    </div>
+</form>
+

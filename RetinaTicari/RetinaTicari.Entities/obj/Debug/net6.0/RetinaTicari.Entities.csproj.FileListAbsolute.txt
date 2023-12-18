@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\bin\Debug\net6.0\RetinaTicari.Entities.deps.json
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\bin\Debug\net6.0\RetinaTicari.Entities.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\bin\Debug\net6.0\RetinaTicari.Entities.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\bin\Debug\net6.0\RetinaTicari.Core.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\bin\Debug\net6.0\RetinaTicari.Core.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.csproj.CopyComplete
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\refint\RetinaTicari.Entities.dll
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\RetinaTicari.Entities.pdb
+C:\Users\hp\Desktop\calismalar\RetinaTicari\RetinaTicari.Entities\obj\Debug\net6.0\ref\RetinaTicari.Entities.dll

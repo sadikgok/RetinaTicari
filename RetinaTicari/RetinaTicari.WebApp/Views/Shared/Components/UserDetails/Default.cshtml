@@ -1,0 +1,14 @@
+﻿
+@model RetinaTicari.WebApp.Models.UserDetailsViewModel
+
+ <ul class="dropdown-menu">
+     @if (!String.IsNullOrEmpty(Model.UserName))
+    {
+        <li>
+            <a>welcome @Model.UserName</a>
+        </li>
+        <li>
+            <a asp-controller="Account" asp-action="LogOff">LogOff</a>
+        </li>
+    }
+ </ul>

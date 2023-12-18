@@ -1,0 +1,14 @@
+﻿@model RetinaTicari.WebApp.Models.CategoryListViewModel
+
+<div class="list-group list-group-flush">
+    @foreach (var category in Model.Categories)
+    {
+        @* var css = "";
+        if (category.CategoryId == Model.CurrentCategory)
+        {
+            css += "active";
+        } *@
+        <a href="/product/index?categoryId=@category.CategoryId" class="list-group-item list-group-item-action bg-light">@category.CategoryName</a>
+    }
+
+</div>
